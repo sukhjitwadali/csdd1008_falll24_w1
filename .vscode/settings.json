@@ -1,0 +1,9 @@
+{
+    "go.buildFlags": [
+        ""
+    ],
+    "go.installDependenciesWhenBuilding": true,
+    "go.languageServerFlags": [
+        
+    ]
+}
